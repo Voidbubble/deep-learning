@@ -17,8 +17,8 @@
 - create tensorflow demo in colaboratory and git
 
 - 3.13.19
-- read through graph & session in tf docs
-- look at built in functions in github
+  - read through graph & session in tf docs
+  - look at built in functions in github
 
 ## links
 - [tensorflow docs](https://www.tensorflow.org/api_docs/python/tf)
