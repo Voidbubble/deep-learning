@@ -7,7 +7,7 @@ deep learning study notes
   - numpy library is not built-in and is numerical python
   - to install in iPython "import numpy as np" in terminal
   
- # iPython Commands
+ # ipython commands
  
 
 ## to do 
