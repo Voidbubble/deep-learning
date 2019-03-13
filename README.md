@@ -5,3 +5,5 @@ deep learning study notes
 - Understand WaveGAN
 - create tensorflow demo in colaboratory and git
 
+## links
+- [tensorflow docs](https://www.tensorflow.org/api_docs/python/tf)
